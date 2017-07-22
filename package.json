@@ -1,8 +1,14 @@
 {
   "name": "eslint-plugin-smtxt",
   "version": "0.0.1",
+  "description": "ESLint plugin with custom Sematext rules",
   "main": "lib/index.js",
+  "repository": "sematext/eslint-plugin-smtxt",
   "license": "MIT",
+  "keywords": [
+    "eslint",
+    "lint"
+  ],
   "devDependencies": {
     "eslint": "~2.8.0",
     "babel-preset-es2015": "~6.22.0"
