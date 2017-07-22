@@ -1,0 +1,14 @@
+*~
+*.iml
+*.swo
+*.swp
+.DS_STORE
+.idea
+.module-cache
+.out
+.tmp
+.vscode
+node_modules
+npm-debug.log
+tmp
+UltiSnips
