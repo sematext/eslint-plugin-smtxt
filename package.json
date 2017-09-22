@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-smtxt",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ESLint plugin with custom Sematext rules",
   "main": "lib/index.js",
   "repository": "sematext/eslint-plugin-smtxt",
@@ -14,7 +14,7 @@
     "eslint": "~2.8.0"
   },
   "scripts": {
-    "postinstall": "babel src --out-dir lib"
+    "prepublish": "babel src --out-dir lib"
   },
   "babel": {
     "presets": [
