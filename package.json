@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-smtxt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ESLint plugin with custom Sematext rules",
   "main": "lib/index.js",
   "repository": "sematext/eslint-plugin-smtxt",
