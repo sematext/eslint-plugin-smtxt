@@ -1,3 +1,8 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)  
+
+We migrated to [oxlint](https://github.com/oxc-project/oxc).
+
+## ESLint plugin Sematext
 If you make some changes in src/ you will need to run `npm install
 ./eslint-plugin-smtxt` to install the changes locally.
 
